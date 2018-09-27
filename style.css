@@ -1,10 +1,46 @@
-/* your CSS goes into this file. For example:
-
-p {
-  color: #ff00ff;
-  text-decoration: underline;
+.title {
+  color: purple;
+  font-family: "Gill Sans", sans-serif;
+  text-align: center;
 }
-
-btw, this is a CSS comment. Feel free to delete it.
-
- */
+.chapter-subheading {
+  font-size: large;
+  font-family: "Gill Sans", sans-serif;
+  color: red;
+}
+.title-subheading {
+  font-size: large;
+  font-family: "Gill Sans", sans-serif;
+  font-weight: normal;
+  font-style: oblique;
+  text-align: center;
+}
+.subsection {
+  font-size: large;
+  font-family: "Gill Sans", sans-serif;
+  font-weight: normal;
+  font-style: oblique;
+  color: blue;
+}
+p {
+  font-size: large;
+  font-family: "Gill Sans", sans-serif;
+  font-weight: lighter;
+  line-height: 32px;
+  text-indent: 0;
+}
+.list  {
+  font-size: large;
+  font-family: "Gill Sans", sans-serif;
+  font-weight: lighter;
+  line-height: 32px;
+  list-style-type: circle;
+}
+.publisher-info {
+  font-size: large;
+  font-family: "Gill Sans", sans-serif;
+  font-weight: lighter;
+  line-height: 32px;
+  text-indent: 0;
+  text-align: center;
+}
